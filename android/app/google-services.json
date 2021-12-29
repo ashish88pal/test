@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "381803895688",
+    "project_id": "test-4089c",
+    "storage_bucket": "test-4089c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381803895688:android:8e6788c3026c25992ef83d",
+        "android_client_info": {
+          "package_name": "com.example.arnowa_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381803895688-omgtbaj82htv0vmtt3h65cbpqr0834j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBjMK3oSYrNb3w0FLwWttdj6vEbomjf_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381803895688-omgtbaj82htv0vmtt3h65cbpqr0834j4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
